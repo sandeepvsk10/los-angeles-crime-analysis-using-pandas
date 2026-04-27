@@ -2,7 +2,7 @@
 
 **Analyzing Crime Trends, Budgets, and Urban Safety in Los Angeles (2010–2023)**
 
-##Project Overview
+## Project Overview
 
 **Digging Into Crime in LA** is a data-driven initiative aimed at uncovering patterns and insights in Los Angeles crime data from 2010 to 2023. This project leverages **Python**, **Pandas**, and **machine learning techniques** to analyze crime incidents, assess the allocation of funding from the Department of Homeland Security, and evaluate the effectiveness of crime prevention efforts in the city.
 
